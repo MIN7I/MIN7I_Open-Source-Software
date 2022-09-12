@@ -5,7 +5,7 @@ __Assignment__
 
 *Assignment*  
 
-:smile:  
+:smile:
 
 <h1> No.1
 <h2> No.2
